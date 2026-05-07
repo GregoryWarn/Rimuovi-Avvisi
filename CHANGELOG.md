@@ -1,9 +1,5 @@
 # CHANGELOG
 
-## [2.0.2]
+## [1.0.1]
 
-- Bugfix
-
-## [2.0.1]
-
-- Foundry v13 Compatibility
+Compatibilità con Foundry v14

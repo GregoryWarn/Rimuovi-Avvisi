@@ -1,4 +1,4 @@
-# No-Warnings
-Removes annoying warnings
+# Rimuovi Avvisi (solo localizzazione Italiana)
+Rimuove automaticamente avvisi indesiderati
 
 GregoryWarn - ClaPSG

@@ -1,19 +1,19 @@
 {
     "id": "warning-remove",
-    "title": "Remove warnings",
-    "description": "Remove notifications and warning.",
-    "version": "2.0.2",
+    "title": "Rimuovi Avvisi",
+    "description": "Rimuove automaticamente avvisi indesiderati",
+    "version": "2.1.0",
     "download": "https://github.com/misthero/warning-remove/releases/download/v2.0.2/warning-remove.zip",
     "manifest": "https://github.com/misthero/warning-remove/releases/latest/download/module.json",
     "url": "https://github.com/misthero/warning-remove",
     "authors": [
         {
-            "name": "Misthero",
+            "name": "GregoryWarn - ClaPSG",
             "flags": {}
         }
     ],
     "compatibility": {
-        "minimum": "11",
+        "minimum": "13",
         "verified": "14",
         "maximum": "14"
     },

@@ -1,4 +1,4 @@
 # Rimuovi Avvisi (solo localizzazione Italiana)
-Rimuove automaticamente avvisi indesiderati
+Rimuove automaticamente avvisi indesiderati su Foundry VTT
 
 GregoryWarn - ClaPSG

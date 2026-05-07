@@ -2,10 +2,10 @@
     "id": "warning-remove",
     "title": "Rimuovi Avvisi",
     "description": "Rimuove automaticamente avvisi indesiderati",
-    "version": "2.1.0",
-    "download": "https://github.com/misthero/warning-remove/releases/download/v2.0.2/warning-remove.zip",
-    "manifest": "https://github.com/misthero/warning-remove/releases/latest/download/module.json",
-    "url": "https://github.com/misthero/warning-remove",
+    "version": "1.0.1",
+    "download": "https://github.com/GregoryWarn/Rimuovi-Avvisi/releases/download/v1.0.1/warning-remove.zip",
+    "manifest": "https://github.com/GregoryWarn/Rimuovi-Avvisi/releases/latest/download/module.json",
+    "url": "https://github.com/GregoryWarn/Rimuovi-Avvisi",
     "authors": [
         {
             "name": "GregoryWarn - ClaPSG",

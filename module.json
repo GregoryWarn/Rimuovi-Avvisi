@@ -2,8 +2,8 @@
     "id": "warning-remove",
     "title": "Rimuovi Avvisi",
     "description": "Rimuove automaticamente avvisi indesiderati",
-    "version": "v14.368",
-    "download": "https://github.com/GregoryWarn/Rimuovi-Avvisi/releases/download/v14.368/module.zip",
+    "version": "v14.370",
+    "download": "https://github.com/GregoryWarn/Rimuovi-Avvisi/releases/download/v14.370/module.zip",
     "manifest": "https://github.com/GregoryWarn/Rimuovi-Avvisi/releases/latest/download/module.json",
     "url": "https://github.com/GregoryWarn/Rimuovi-Avvisi",
     "authors": [
@@ -15,7 +15,7 @@
     "compatibility": {
         "minimum": "14",
         "verified": "14",
-        "maximum": "15"
+        "maximum": "14.999"
     },
     "scripts": [
         "warning-remove.js"
